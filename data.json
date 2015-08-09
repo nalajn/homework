@@ -1,0 +1,72 @@
+{
+  "agents": [
+    {
+      "id": "bjstmngbgr02",
+      "type": "physical",
+      "avatar": "bjstmngbgr02.png",
+      "url": "bjstmngbgr02.thoughtworks.com",
+      "status": "idle",
+      "ip": "192.168.1.2",
+      "path": "/var/lib/cruise-agent",
+      "resources": [
+        "ubuntu",
+        "firefox3",
+        "core-duo"
+      ]
+    },
+    {
+      "id": "bjstmngbgr03",
+      "type": "physical",
+      "avatar": "bjstmngbgr03.png",
+      "url": "bjstmngbgr03.thoughtworks.com",
+      "status": "building",
+      "ip": "192.168.1.3",
+      "path": "/var/lib/cruise-agent",
+      "resources": [
+        "ubuntu",
+        "firefox3",
+        "mysql",
+        "core-duo"
+      ]
+    },
+    {
+      "id": "bjstmngbgr04",
+      "type": "physical",
+      "avatar": "bjstmngbgr04.png",
+      "url": "bjstmngbgr04.thoughtworks.com",
+      "status": "building",
+      "ip": "192.168.1.4",
+      "path": "/var/lib/cruise-agent",
+      "resources": [
+        "ubuntu",
+        "firefox3",
+        "mysql",
+        "core-duo"
+      ]
+    },
+    {
+      "id": "bjstmngbgr05",
+      "type": "physical",
+      "avatar": "bjstmngbgr05.png",
+      "url": "bjstmngbgr05.thoughtworks.com",
+      "status": "idle",
+      "ip": "192.168.1.5",
+      "path": "/var/lib/cruise-agent",
+      "resources": [
+        "ubuntu"
+      ]
+    }
+  ],
+  "history": [
+    ".....ಠ_ಠ..... /Acceptance_test 1",
+    "~~ಠ_ಠ~~ /Acceptance_test 2",
+    "---(ಠ_ಠ)--- /Acceptance_test 3",
+    "**{{ಠ_ಠ}}** /Acceptance_test 4",
+    "<<ಠ_ಠ>> /Acceptance_test 5",
+    "++ಠ_ಠ++ /Acceptance_test 6",
+    "??ಠ_ಠ?? /Acceptance_test 7",
+    "$$-ಠ_ಠ-$$ /Acceptance_test 8",
+    "qo·ಠ_ಠ·op /Acceptance_test 9",
+    "##·ಠ_ಠ·## /Acceptance_test 10"
+  ]
+}
